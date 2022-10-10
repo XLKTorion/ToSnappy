@@ -1,0 +1,6 @@
+framework module ToSnappy {
+  umbrella header "ToSnappy-umbrella.h"
+
+  export *
+  module * { export * }
+}

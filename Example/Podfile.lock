@@ -1,0 +1,16 @@
+PODS:
+  - ToSnappy (0.1.0)
+
+DEPENDENCIES:
+  - ToSnappy (from `../`)
+
+EXTERNAL SOURCES:
+  ToSnappy:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ToSnappy: 5aee54ce64b6a0d1229a6956a8f241a187369397
+
+PODFILE CHECKSUM: c6e9c599e8147de5beed9392fd39ee7f6fbfdbdd
+
+COCOAPODS: 1.11.3
